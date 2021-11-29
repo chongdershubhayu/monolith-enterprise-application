@@ -338,7 +338,7 @@
                     <execution>
                         <phase>process-resources</phase>
                         <goals>
-                            <goal>diff</goal>
+                            <goal>update</goal>
                         </goals>
                     </execution>
                 </executions>
